@@ -4,6 +4,6 @@ document.getElementById("submit").addEventListener("click", function() {
     // Guardar el nombre en el almacenamiento local
     localStorage.setItem("userName", name);
 
-    // Redirigir a message.html
-    window.location.href = "Birthday-cake.html";
+    // Redirigir
+    window.location.href = "cake.html";
 });
