@@ -27,7 +27,10 @@ h1, button, input{
 h1{
   font-size: 5rem;
 }
-button, input{
+button {
+  font-size: 2.5rem;
+}
+input{
   font-size: 2.5rem;
 }
 button{
